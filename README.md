@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdülkadir</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Cyber ​​Security Analyst</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **Cyber Sercurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
